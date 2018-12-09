@@ -1,4 +1,5 @@
 # Androlate Gradle Plugin
+[![](https://jitpack.io/v/reines/gradle-androlate-plugin.svg)](https://jitpack.io/#reines/gradle-androlate-plugin)
 
 This plugin translates the string resources in your Android project using the
 [Google Translate] (https://translate.google.com/).  It also provides a few extras to help with common translation tasks.
